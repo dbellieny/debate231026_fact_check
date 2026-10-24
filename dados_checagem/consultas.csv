@@ -1,0 +1,33 @@
+﻿consulta_id;data;consulta;metodo
+Q01;2026-10-24;debate Globo 23 outubro 2026 presidente checagem;"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q02;2026-10-24;debate presidencial Globo 23/10/2026 checagem fatos;"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q03;2026-10-24;"site:g1.globo.com ""2026/10/23"" ""debate"" ""Fato ou Fake""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q04;2026-10-24;"site:agencialupa.org ""debate"" ""23"" ""2026"" ""Globo""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q05;2026-10-24;"""debate"" ""Globo"" ""2026"" ""checagem"" ""Estadão""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q06;2026-10-24;"""debate"" ""Globo"" ""2026"" ""checagem"" ""AFP""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q07;2026-10-24;"""debate"" ""23"" ""2026"" ""Fato ou Fake"" ""Lula"" ""Flávio""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q08;2026-10-24;"""debate"" ""Globo"" ""23/10/2026"" ""Estadão Verifica""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q09;2026-10-24;"""debate"" ""Globo"" ""23/10/2026"" ""checamos""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q10;2026-10-24;"""debate"" ""Globo"" ""2026"" ""checagem"" ""Projeto Comprova""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q11;2026-10-24;"site:g1.globo.com ""2026"" ""debate"" ""Veja o que é FATO""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q12;2026-10-24;"site:oglobo.globo.com ""2026/10/24"" ""checagem""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q13;2026-10-24;"site:estadao.com.br ""2026/10/24"" ""debate"" ""verifica""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q14;2026-10-24;"""Globo"" ""2026"" ""debate"" ""checagem"" ""AFP"" ""24""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q15;2026-10-24;"""Globo"" ""23"" ""2026"" ""checagem"" ""Estadão Verifica"" -site:facebook.com -site:wikipedia.org";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q16;2026-10-24;"""Globo"" ""23"" ""2026"" ""FATO"" ""FAKE"" ""falas"" -site:facebook.com -site:wikipedia.org";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q17;2026-10-24;"""Globo"" ""23"" ""2026"" ""checagem"" ""Ranking dos Políticos""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q18;2026-10-24;"""Globo"" ""2026"" ""debate"" ""FESPSP"" ""checagem""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q19;2026-10-24;"""Estadão"" ""Checamos"" ""Globo"" ""24"" ""2026"" ""Lula""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q20;2026-10-24;"""debate"" ""Globo"" ""2026"" ""checagem"" ""FESPSP"" ""FIA""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q21;2026-10-24;"""Checamos o debate entre Flávio e Lula na Globo""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q22;2026-10-24;"""debate"" ""Globo"" ""2026"" ""checagem"" site:brasilparalelo.com.br/noticias";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q23;2026-10-24;"""debate"" ""Globo"" ""2026"" ""checagem"" site:fenaj.org.br";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q24;2026-10-24;"""debate"" ""Globo"" ""2026"" ""checagem"" site:checamos.afp.com";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q25;2026-10-24;"site:brasilparalelo.com.br ""Checagem BP"" ""23/10/2026""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q26;2026-10-24;"site:boatos.org ""debate"" ""Globo"" ""23"" ""2026""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q27;2026-10-24;"site:projetocomprova.com.br ""debate"" ""Globo"" ""2026""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q28;2026-10-24;"site:bereia.org.br ""debate"" ""23"" ""2026""";"Pesquisa web; resultados seguidos por leitura e links quando elegíveis."
+Q29;2026-10-24;"""Aos Fatos"" ""Globo"" ""23"" ""2026"" ""23"" ""falsas""";Pesquisa web com seguimento de resultados elegíveis.
+Q30;2026-10-24;"""Aos Fatos"" ""Globo"" ""2026"" ""verdadeiras"" ""Flávio""";Pesquisa web com seguimento de resultados elegíveis.
+Q31;2026-10-24;"""Fato ou Fake"" ""23"" ""Globo"" ""2026"" ""checagens"" ""24""";Pesquisa web com seguimento de resultados elegíveis.
+Q32;2026-10-24;"""checagem"" ""Globo"" ""2026"" ""124"" ""Ranking""";Pesquisa web com seguimento de resultados elegíveis.

@@ -1,0 +1,20 @@
+﻿agencia_portal;tipo;status;observacao;url
+UOL Confere;primaria_rotulada;incluido;29 vereditos recuperados;https://noticias.uol.com.br/confere/ultimas-noticias/2026/10/24/debate-globo-checagem-flavio-lula.ghtm
+Lupa / Folha;primaria_rotulada;incluido;"43 vereditos atuais; Folha não somada outra vez";https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/
+Estadão Verifica;primaria_rotulada;incluido;42 vereditos recuperados;https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/
+Terra / Aos Fatos;primaria_rotulada_parcial;suplemento_parceria;"19 registros preservados no suplemento; não entram nas contagens principais.";https://www.terra.com.br/noticias/eleicoes/flavio-x-lula-na-globo-confira-a-checagem-sobre-as-declaracoes-do-ultimo-debate,0c0522294d9719e823d66bf9ef74f6f3v9zi67zf.html
+Aos Fatos;primaria_rotulada;incluido;"46 selos diretos recuperados no DOM renderizado; 23 por candidato.";https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-lula-debate-globo/
+O POVO;conclusao_textual;incluido;"13 registros em 12 reportagens; uma contextualização excluída";https://mais.opovo.com.br/jornal/politica/2026/10/24/o-povo-fez-checagem-de-declaracoes-de-flavio-bolsonaro-e-lula-durante-debate-da-tv-globo.html
+Brasil Paralelo;conclusao_textual;incluido;"7 checagens próprias; balanço do Ranking separado";https://www.brasilparalelo.com.br/noticias
+Ranking dos Políticos;painel_automatico;pendente_validacao;Painel dinâmico sem dados recuperados. Balanço secundário separado.;https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-globo-2-turno-2026
+Fato ou Fake / Grupo Globo;primaria_rotulada;incluido;"54 avaliações em 53 blocos: 29 Flávio, 25 Lula. Conteúdo correto da Globo recuperado nesta atualização; exclusão anterior superada.";https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml
+Projeto Comprova;plantao_redes;sem_corpus_elegivel_localizado;"Plantão anunciado; itens localizados sobre redes/outros eventos excluídos.";https://www.abraji.org.br/noticias/projeto-comprova-anuncia-plantao-especial-para-o-debate-na-tv-globo-e-fim-de-semana-eleitoral-e-reforca-servico-consulte-o-comprova
+AFP Checamos;busca_dirigida;sem_corpus_elegivel_localizado;Resultados de 2022 e do debate da Band não incluídos.;https://checamos.afp.com/
+Boatos.org;busca_dirigida;sem_corpus_elegivel_localizado;Checagem prévia sobre desistência não é fala proferida no debate.;https://www.boatos.org/politica/flavio-bolsonaro-disse-que-vai-desistir-de-debate-da-globo-se-houver-checagem-de-fatos-em-tempo-real.html
+Fenaj / RNCD / Intercom e parceiros;audiovisual;pendente;"Transmissão anunciada; sem inventário completo de vereditos recuperado.";https://fenaj.org.br/
+ECA-USP / CJE;audiovisual;pendente;"Live anunciada; sem transcrição e selos extraídos.";https://tvtnews.com.br/confira-a-checagem-em-tempo-real-do-debate-da-globo/
+FESPSP / FIA;painel;pendente;Iniciativa citada, sem base completa de resultados recuperada.;https://tvtnews.com.br/confira-a-checagem-em-tempo-real-do-debate-da-globo/
+ICL Notícias;audiovisual;pendente;"React/checagem anunciado; sem corpus completo de vereditos extraído.";https://iclnoticias.com.br/canal-icl-noticias-vai-fazer-checagem-de-fatos/
+TVT News;repercussao;nao_agregado;"Reportagem sobre iniciativas, com exemplo isolado; não tratada como balanço completo.";https://tvtnews.com.br/confira-a-checagem-em-tempo-real-do-debate-da-globo/
+Daily Journal;IA_sem_revisao_humana;suplemento_automatico;165 registros contados nas categorias originais. Não misturar falso ou distorcido com falso puro.;https://dailyjournal.news/debates-fact-check/brasil-2026-10-23-globo
+Checagem ao Vivo;painel_automatico;pendente;Página acessada mostra agradecimento, sem placar recuperável.;https://www.checagemaovivo.org/

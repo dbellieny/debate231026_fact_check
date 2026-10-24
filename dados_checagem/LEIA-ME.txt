@@ -1,0 +1,32 @@
+CHECAGENS DO DEBATE DA GLOBO - 23/10/2026
+Coleta: 24/10/2026. Versão 1.2.
+
+Abra dados_checagens.json para todas as tabelas ou importe os CSVs com encoding UTF-8-SIG e separador ;.
+234 avaliações editoriais classificadas. Não são 234 falas únicas nem um censo do debate.
+46 selos do Aos Fatos e 54 avaliações Fato ou Fake incorporados. 19 itens Terra em suplemento fora das contagens principais.
+Contagens verdadeiras/falsas/imprecisas são por agência e candidato.
+Impreciso agrega engano, exagero, subestimação e falta de contexto.
+Sem conclusão preserva insustentável e inconclusivo fora das três classes.
+O POVO e Brasil Paralelo: correspondência de conclusões textuais, não selos formais.
+Terra/Aos Fatos: seleção em suplemento; não somar à base direta do Aos Fatos.
+Daily Journal: 165 registros de IA sem revisão humana, em arquivos separados.
+Ranking: balanço secundário, sem inventário validado, em arquivo separado.
+Falso ou distorcido (Daily Journal) não foi convertido em falso puro.
+
+TABELAS
+contagens: síntese normalizada por origem e candidato. Ambos é subtotal, não linha adicional a somar.
+checagens: 234 avaliações individuais e respectivas fontes. Fato ou Fake: 54 selos em 53 citações; fome contém dois julgamentos explícitos.
+alegacoes: núcleos temáticos por candidato; não equivalência textual integral.
+comparacoes: núcleos compartilhados para revisão de convergência/divergência.
+pendencias: vazia; selos do Aos Fatos recuperados.
+checagens_terra_suplemento: 19 registros Terra excluídos da contagem principal.
+fontes: URLs e hashes de coleta.
+cobertura: 19 iniciativas e condições de acesso.
+balanco_secundario: Ranking reproduzido pela BP, fora do corpus editorial.
+contagens_automaticas / registros_automaticos: suplemento Daily Journal.
+discrepancias: conflitos documentais de contagem/recorte.
+mapeamento / metodologia / consultas: critérios e 32 buscas executadas.
+
+Vazio em contagens = não recuperado, nunca zero presumido. Zero = ausência da classe dentro do corpus contado.
+Não usar as contagens como medida geral de honestidade ou intenção de mentir.
+As avaliações são atribuídas às fontes e não foram rechecadas independentemente.

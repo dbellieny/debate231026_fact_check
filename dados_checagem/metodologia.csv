@@ -1,0 +1,15 @@
+﻿topico;criterio
+Recorte;"Debate presidencial da Rede Globo, Brasil, 23/10/2026. Coleta em 24/10/2026; retrato das páginas acessadas, sujeito a revisões."
+Unidade;"Uma avaliação por fonte, candidato e unidade classificada. Não contar frases sem veredito. Não dividir avaliação composta da fonte; exceto artigo que julga separadamente os dois candidatos."
+Três classes;Verdadeiro e falso mantêm direção inequívoca do veredito. Impreciso agrega exagero, subestimação, engano, acerto parcial e falta de contexto. Não significa que sejam equivalentes semanticamente.
+Sem conclusão;Insustentável e inconclusivo ficam fora das três classes, com contagem própria. Falta de evidência não é automaticamente falsidade ou imprecisão.
+Sem dados;Célula vazia nas contagens = não recuperado. Zero = classe ausente dentro do corpus efetivamente contado. Nunca preencher fontes inacessíveis com zero.
+Selos e texto;UOL, Lupa, Estadão e seleção Terra: selos explícitos. O POVO e Brasil Paralelo: conclusões textuais codificadas pelo framework. Consultar tipo_veredito para separar os dois estratos.
+Parcerias;Folha/Lupa são uma origem. Seleção do Terra/Aos Fatos não deve ser somada à lista do Aos Fatos. Balanço do Ranking republicado pela BP não integra checagens próprias da BP.
+Alegações;IDs compartilham candidato e tema. A chave identifica núcleo comum para inspeção, não equivalência integral da formulação. Comparar escopo, data e unidades na fonte antes de medir concordância.
+Cobertura;Busca ampla com mecanismos de pesquisa, consultas por domínio, leitura de páginas consolidadas e rastreamento de links. Não é censo completo da internet. Vídeos, painéis e páginas não recuperadas permanecem pendentes.
+Sem ranking pessoal;As agências selecionam falas diferentes. Contagens não medem todas as falas, intenção de mentir, honestidade geral nem representatividade estatística.
+Atualização;"Reabrir URLs, verificar correções, atualizar registros por ID e recontar. Preservar versão, data de coleta e sha256. A planilha recalcula o resumo quando as linhas existentes mudam; para novas linhas, ampliar faixas de fórmulas."
+Evidências;"Esta entrega agrega avaliações publicadas. Não revalida independentemente dados oficiais citados por cada veículo. Links apontam para análises e fundamentação; textos integrais não são reproduzidos."
+Atualização 1.1 - Aos Fatos;46 selos diretos do Aos Fatos incorporados. 19 registros Terra preservados em suplemento, fora da base principal para não duplicar origem. Outras fontes não rechecadas nesta atualização. Selo preservado por data-stamp, não inferido da justificativa.
+Atualização 1.2 - Fato ou Fake;"54 avaliações do Fato ou Fake integradas: 29 Flávio e 25 Lula. Selos explícitos; fome separada em duas avaliações pela própria fonte. Demais origens preservadas da versão 1.1. 53 citações; uma contém dois selos. Outros selos mencionados nas justificativas não geram novas linhas. O total de imagens da página não é unidade de contagem."

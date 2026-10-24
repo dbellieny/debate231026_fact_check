@@ -1,0 +1,109 @@
+﻿alegacao_id;candidato;tema_curto;avaliacoes;origens;categorias
+F-obras_atuais;Flávio Bolsonaro;Obras atuais;6;6;falso / impreciso / verdadeiro
+F-celular_cerveja;Flávio Bolsonaro;Celular cerveja;5;5;falso
+F-redufla_o;Flávio Bolsonaro;Reduflação;3;3;falso / impreciso
+F-deboche_covid;Flávio Bolsonaro;Deboche Covid;6;6;falso / impreciso
+F-alimentos_caros;Flávio Bolsonaro;Alimentos caros;3;3;impreciso / verdadeiro
+F-relat_rio_darkhorse;Flávio Bolsonaro;Relatório DarkHorse;3;3;falso / sem_conclusao
+F-aux_lio_600;Flávio Bolsonaro;Auxílio 600;5;5;impreciso
+F-infla_o_argentina;Flávio Bolsonaro;Inflação Argentina;2;2;verdadeiro
+F-voto_constitui_o;Flávio Bolsonaro;Voto Constituição;3;3;impreciso / verdadeiro
+F-bets_lula;Flávio Bolsonaro;Bets Lula;6;6;falso / impreciso
+F-d_vida_bruta;Flávio Bolsonaro;Dívida bruta;6;6;impreciso / verdadeiro
+F-ajuda_rs;Flávio Bolsonaro;Ajuda RS;2;2;falso / impreciso
+F-proje_o_selic;Flávio Bolsonaro;Projeção Selic;4;4;impreciso
+F-cracol_ndia;Flávio Bolsonaro;Cracolândia;2;2;falso / impreciso
+F-agro_fascista;Flávio Bolsonaro;Agro fascista;1;1;impreciso
+F-transposi_o;Flávio Bolsonaro;Transposição;4;4;impreciso
+F-pontos_internet;Flávio Bolsonaro;Pontos internet;4;4;impreciso / verdadeiro
+L-obras_herdadas;Lula;Obras herdadas;5;5;impreciso / verdadeiro
+L-erradica_o_fome;Lula;Erradicação fome;3;3;impreciso
+L-fome_33milh_es;Lula;Fome 33milhões;4;4;verdadeiro
+L-bolsa_farelo;Lula;Bolsa farelo;5;5;verdadeiro
+L-exporta_es_recorde;Lula;Exportações recorde;7;7;verdadeiro
+L-mercados_super_vit;Lula;Mercados superávit;2;2;verdadeiro
+L-pobreza_argentina;Lula;Pobreza Argentina;4;4;impreciso / verdadeiro
+L-m_nimo_contrafactual;Lula;Mínimo contrafactual;4;4;impreciso / verdadeiro
+L-crescimento_pib;Lula;Crescimento PIB;5;5;falso / impreciso
+L-defesa_mil_cias;Lula;Defesa milícias;4;4;verdadeiro
+L-valor_mans_o;Lula;Valor mansão;2;2;impreciso
+L-compra_d_vidas;Lula;Compra dívidas;3;3;verdadeiro
+L-mercados_abertos;Lula;Mercados abertos;2;2;verdadeiro
+L-rodovia_br319;Lula;Rodovia BR319;2;2;impreciso
+F-gasto_reelei_o;Flávio Bolsonaro;Gasto reeleição;3;3;impreciso
+F-marco_saneamento;Flávio Bolsonaro;Marco saneamento;1;1;verdadeiro
+F-produ_o_centrooeste;Flávio Bolsonaro;Produção CentroOeste;1;1;verdadeiro
+F-selic_atual;Flávio Bolsonaro;Selic atual;1;1;verdadeiro
+F-inadimplentes;Flávio Bolsonaro;Inadimplentes;4;4;impreciso / verdadeiro
+F-pa_s_quebrado;Flávio Bolsonaro;País quebrado;1;1;impreciso
+L-bets_bolsonaro;Lula;Bets Bolsonaro;4;4;falso
+L-super_vit_moeda;Lula;Superávit moeda;1;1;impreciso
+L-lei_pequenasempresas;Lula;Lei pequenasempresas;1;1;verdadeiro
+L-vacinas_jacar;Lula;Vacinas jacaré;3;3;impreciso / verdadeiro
+F-filme_lula;Flávio Bolsonaro;Filme Lula;1;1;sem_conclusao
+F-juros_agro;Flávio Bolsonaro;Juros agro;1;1;falso
+F-reajuste_professores;Flávio Bolsonaro;Reajuste professores;1;1;impreciso
+L-perd_o_mei;Lula;Perdão MEI;2;2;verdadeiro
+F-falta_dipirona;Flávio Bolsonaro;Falta dipirona;1;1;impreciso
+F-popula_o_rua;Flávio Bolsonaro;População rua;3;3;impreciso / verdadeiro
+F-maioridade_penal;Flávio Bolsonaro;Maioridade penal;1;1;impreciso
+F-caso_anaclara;Flávio Bolsonaro;Caso AnaClara;3;3;falso / impreciso / sem_conclusao
+F-cemit_rio_obras;Flávio Bolsonaro;Cemitério obras;1;1;impreciso
+F-casa_mulher;Flávio Bolsonaro;Casa Mulher;3;3;falso
+F-fila_tireoide;Flávio Bolsonaro;Fila tireoide;2;2;verdadeiro
+F-investiga_o_mil_cia;Flávio Bolsonaro;Investigação milícia;2;2;impreciso
+L-t_nel_santos;Lula;Túnel Santos;2;2;impreciso
+L-fome_combinada;Lula;Fome combinada;2;2;impreciso
+L-nordeste_2003;Lula;Nordeste 2003;2;2;impreciso / verdadeiro
+L-aprova_o_ita;Lula;Aprovação ITA;1;1;verdadeiro
+L-primeira_universidade;Lula;Primeira universidade;1;1;impreciso
+L-licen_a_maternidade;Lula;Licença maternidade;4;4;verdadeiro
+L-fundo_amaz_nia;Lula;Fundo Amazônia;3;3;impreciso / verdadeiro
+L-selic_herdada;Lula;Selic herdada;3;3;impreciso / verdadeiro
+L-computa_o_qu_ntica;Lula;Computação quântica;2;2;verdadeiro
+L-carne_burro;Lula;Carne burro;1;1;impreciso
+L-sociedade_willer;Lula;Sociedade Willer;1;1;sem_conclusao
+L-fotos_vorcaro;Lula;Fotos Vorcaro;1;1;falso
+L-alcance_desenrola;Lula;Alcance Desenrola;1;1;impreciso
+F-ped_gio_motos;Flávio Bolsonaro;Pedágio motos;1;1;impreciso
+F-carga_tribut_ria;Flávio Bolsonaro;Carga tributária;1;1;verdadeiro
+F-acesso_saneamento;Flávio Bolsonaro;Acesso saneamento;2;2;impreciso / verdadeiro
+F-prazo_saneamento;Flávio Bolsonaro;Prazo saneamento;1;1;falso
+F-juro_real;Flávio Bolsonaro;Juro real;1;1;verdadeiro
+F-reajuste_benef_cio;Flávio Bolsonaro;Reajuste benefício;1;1;verdadeiro
+F-mortes_mulheres;Flávio Bolsonaro;Mortes mulheres;2;2;impreciso
+F-filia_o_ad_lio;Flávio Bolsonaro;Filiação Adélio;1;1;impreciso
+F-u_sque_caro;Flávio Bolsonaro;Uísque caro;1;1;impreciso
+F-desconto_fies;Flávio Bolsonaro;Desconto FIES;2;2;impreciso
+F-viol_ncia_regional;Flávio Bolsonaro;Violência regional;3;3;impreciso / verdadeiro
+L-investimento_agro;Lula;Investimento agro;2;2;verdadeiro
+L-infraestrutura_recorde;Lula;Infraestrutura recorde;2;2;falso / impreciso
+L-fala_salles;Lula;Fala Salles;2;2;impreciso / verdadeiro
+F-endividamento_fam_lias;Flávio Bolsonaro;Endividamento famílias;1;1;verdadeiro
+L-retorno_bets;Lula;Retorno bets;1;1;falso
+L-infraestrutura_multiplicada;Lula;Infraestrutura multiplicada;1;1;impreciso
+F-iva_cronograma;Flávio Bolsonaro;IVA cronograma;1;1;impreciso
+L-aposentados_rs;Lula;Aposentados RS;1;1;verdadeiro
+F-esquerda_argentina;Flávio Bolsonaro;Esquerda Argentina;1;1;impreciso
+L-supercomputador_rn;Lula;Supercomputador RN;1;1;verdadeiro
+F-novos_tributos;Flávio Bolsonaro;Novos tributos;1;1;impreciso
+F-d_vida_santascasas;Flávio Bolsonaro;Dívida santascasas;1;1;falso
+L-obras_educa_o;Lula;Obras educação;2;2;verdadeiro
+F-desempenho_pisa;Flávio Bolsonaro;Desempenho Pisa;1;1;impreciso
+L-defesa_delaroli;Lula;Defesa Delaroli;2;2;verdadeiro
+F-ilha_richarlison;Flávio Bolsonaro;Ilha Richarlison;1;1;verdadeiro
+F-recursos_master;Flávio Bolsonaro;Recursos Master;1;1;impreciso
+L-barco_pandemia;Lula;Barco pandemia;1;1;verdadeiro
+L-vacina_covaxin;Lula;Vacina Covaxin;1;1;verdadeiro
+F-obras_herdadas_bolsonaro;Flávio Bolsonaro;Obras herdadas Bolsonaro;1;1;verdadeiro
+F-audi_ncia_cust_dia;Flávio Bolsonaro;Audiência custódia;1;1;verdadeiro
+F-tabela_sus;Flávio Bolsonaro;Tabela SUS;1;1;falso
+F-raspagem_balas;Flávio Bolsonaro;Raspagem balas;1;1;impreciso
+F-sociedade_willer;Flávio Bolsonaro;Sociedade Willer;1;1;impreciso
+F-juros_ranking;Flávio Bolsonaro;Juros ranking;1;1;verdadeiro
+F-saidinhas;Flávio Bolsonaro;Saidinhas;1;1;verdadeiro
+F-roberta_luchsinger;Flávio Bolsonaro;Roberta Luchsinger;1;1;verdadeiro
+L-pac_execu_o;Lula;PAC execução;1;1;verdadeiro
+L-trocas_banco_central;Lula;Trocas Banco Central;1;1;verdadeiro
+L-cart_o_corporativo;Lula;Cartão corporativo;1;1;falso
+L-acidentes_trabalho;Lula;Acidentes trabalho;1;1;impreciso
